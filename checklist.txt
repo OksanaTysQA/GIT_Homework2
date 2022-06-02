@@ -1,0 +1,10 @@
+Build: 1.0
+Environment: Windows 11
+Test date: 02.06.2022
+Tester: Tyshchenko
+Test type:
+
+Checking:
+
+Result:
+
